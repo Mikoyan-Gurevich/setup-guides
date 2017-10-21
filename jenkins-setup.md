@@ -36,12 +36,12 @@ sudo /etc/init.d/jenkins start
 
 - Go to the application running on port 8080 and perform operations as mentioned in screenshot
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20JOb%20Step%201.png)
+![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%201.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20JOb%20Step%202.png)
+![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%202.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20JOb%20Step%203.png)
+![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%203.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20JOb%20Step%204.png)
+![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%204.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20JOb%20Step%205.png)
+![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%205.png)
