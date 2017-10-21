@@ -31,3 +31,7 @@ sudo /etc/init.d/jenkins start
 - Check logs at /var/log/jenkins/jenkins.log for password
 
 -  At localhost:8080 jenkins need to be configured // In case we are not able to access localhost:8080, we can take help of nginx by redirecting the port 80 traffic to localhost:8080
+
+#### Create new job
+
+- Go to the application running on port 8080 and perform operations as mentioned in screenshot
