@@ -38,10 +38,10 @@ sudo /etc/init.d/jenkins start
 
 ![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%201.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%202.png)
+![Step 2](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%202.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%203.png)
+![Step 3](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%203.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%204.png)
+![Step 4](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%204.png)
 
-![Step 1](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%205.png)
+![Step 5](https://github.com/Heli-Copter/setup-guides/blob/master/Create%20Jenkins%20Job%20Step%205.png)
